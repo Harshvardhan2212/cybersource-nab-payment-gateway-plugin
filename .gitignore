@@ -1,0 +1,4 @@
+/Log
+*.Log
+.php-cs-fixer.cache
+.php-cs-fixer.dist.app
